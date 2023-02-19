@@ -36,6 +36,7 @@
   <p align="center">
     This repo is a template of how to build on <a href="https://github.com/IQTLabs/edgetech-core">IQT Labs EdgeTech-Core</a> functionality to instantiate an <a href="https://projects.eclipse.org/projects/iot.mosquitto">MQTT</a> client. The philosophy behind EdgeTech-Core is to minimize development requirements for standing up the software stack of an "edge" system. The template includes all of the files and code scaffolds required to build in the EdgeTech framework. All of this functionality is wrapped in a Docker container for cross-platform compatibility. 
     <br/>
+    <br/>
     You'll need to rename various files and directories as well as customize based on your functional needs, but the EdgeTech framework and scaffolding should minimize the development requirements. If you don't find that to be the case, submit a pull request and help us make this repository better!
     <br/>
     <br/>
